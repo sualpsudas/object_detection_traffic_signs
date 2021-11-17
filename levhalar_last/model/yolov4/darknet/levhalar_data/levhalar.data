@@ -1,0 +1,6 @@
+classes=5
+train=levhalar_data/levhalar_training.txt
+valid=levhalar_data/levhalar_testing.txt
+names=levhalar_data/levhalar.names
+backup=backup
+
